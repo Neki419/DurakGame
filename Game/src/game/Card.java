@@ -1,4 +1,4 @@
-package com.game.staticElements;
+package game;
 
 public class Card {
     private final Color color; //Масть карты

@@ -1,4 +1,4 @@
-package com.game.dynamicElements;
+package game;
 
 //Активация игры
 public class StartGame {

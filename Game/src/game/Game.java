@@ -1,10 +1,6 @@
-package com.game.dynamicElements;
+package game;
 
-import com.game.staticElements.Card;
-import com.game.staticElements.GameField;
-import com.game.staticElements.Pair;
-import com.game.staticElements.Player;
-import com.network.TCPConnectionListener;
+import network.TCPConnectionListener;
 
 public class Game {
     private final GameField gameField; //Игровое поле

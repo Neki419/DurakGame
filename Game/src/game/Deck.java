@@ -1,4 +1,4 @@
-package com.game.staticElements;
+package game;
 
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;

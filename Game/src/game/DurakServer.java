@@ -1,8 +1,7 @@
-package com.game.dynamicElements;
+package game;
 
-import com.game.staticElements.Player;
-import com.network.TCPConnection;
-import com.network.TCPConnectionListener;
+import network.TCPConnection;
+import network.TCPConnectionListener;
 
 import java.io.IOException;
 import java.net.ServerSocket;

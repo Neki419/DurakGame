@@ -1,4 +1,4 @@
-package com.game.staticElements;
+package game;
 
 //Класс, который вычисляет, смогла ли отбиться защищающаяся карта
 

@@ -1,6 +1,6 @@
-package com.game.staticElements;
+package game;
 
-import com.network.TCPConnection;
+import network.TCPConnection;
 
 import java.util.ArrayList;
 import java.util.List;

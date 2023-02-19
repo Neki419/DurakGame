@@ -1,4 +1,4 @@
-package com.game.staticElements;
+package game;
 
 /*
  * Значения карт
